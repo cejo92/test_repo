@@ -1,3 +1,4 @@
 void name(){
+console.println(«morradi»);
 console.println("hey, {name}");
 }
