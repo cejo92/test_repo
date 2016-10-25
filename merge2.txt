@@ -1,4 +1,3 @@
-void name(){
-console.println(«morradi»);
-console.println("hey, {name}");
+﻿void name(){
+console.println("hey, morradi");
 }
